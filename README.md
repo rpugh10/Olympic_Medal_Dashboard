@@ -18,7 +18,7 @@ The purpose of the dashboard is to provide the user with a clear understanding o
 particular country performed at the 2020 Summer Olympics. The dashboard is designed to help
 users quickly identify the top-performing countries and compare the medal count for the different
 countries.
-The intended audience is:
+The intended audience is: <br>
 ● Sports analysts <br>
 ● General users interested in the Olympics <br>
 ● Students studying data science <br>
